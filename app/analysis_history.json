@@ -1,5 +1,255 @@
 [
   {
+    "id": "20260417221015500386",
+    "timestamp": "2026-04-17 22:10:15",
+    "text_preview": "Operations Executive\n\nJob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience:...",
+    "full_text": "Operations Executive\n\nJob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience: 1\u20133 Years\n\nJob Description:\nWe are seeking an Operations Executive to oversee daily business activities and improve operational efficiency.",
+    "analysis_type": "quick",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 55.32,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 44.68,
+      "legitimate": 55.32
+    }
+  },
+  {
+    "id": "20260417220055659563",
+    "timestamp": "2026-04-17 22:00:55",
+    "text_preview": "Operations Executive\n\nJob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience:...",
+    "full_text": "Operations Executive\n\nJob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience: 1\u20133 Years\n\nJob Description:\nWe are seeking an Operations Executive to oversee daily business activities and improve operational efficiency.",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 55.32,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 44.68,
+      "legitimate": 55.32
+    }
+  },
+  {
+    "id": "20260417212352491099",
+    "timestamp": "2026-04-17 21:23:52",
+    "text_preview": "Operations Executive\n\nJob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience:...",
+    "full_text": "Operations Executive\n\nJob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience: 1\u20133 Years\n\nJob Description:\nWe are seeking an Operations Executive to oversee daily business activities and improve operational efficiency.",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 55.32,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 44.68,
+      "legitimate": 55.32
+    }
+  },
+  {
+    "id": "20260414185756616461",
+    "timestamp": "2026-04-14 18:57:56",
+    "text_preview": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type:...",
+    "full_text": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type: Full-Time\n\nJob Description:\nWe are seeking a detail-oriented Data Analyst to transform raw data into meaningful insights that support business decision-making.",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 52.26,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 47.74,
+      "legitimate": 52.26
+    }
+  },
+  {
+    "id": "20260414185751047858",
+    "timestamp": "2026-04-14 18:57:51",
+    "text_preview": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type:...",
+    "full_text": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type: Full-Time\n\nJob Description:\nWe are seeking a detail-oriented Data Analyst to transform raw data into meaningful insights that support business decision-making.",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 52.26,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 47.74,
+      "legitimate": 52.26
+    }
+  },
+  {
+    "id": "20260414185701651460",
+    "timestamp": "2026-04-14 18:57:01",
+    "text_preview": "Dear Hiring Manager,\n\nI hope you are doing well.\n\nI am writing to apply for the Software Developer position at your comp...",
+    "full_text": "Dear Hiring Manager,\n\nI hope you are doing well.\n\nI am writing to apply for the Software Developer position at your company. I have completed my Bachelor's degree in Computer Science and have experience in Java, Python, and web development.\n\nI am very interested in joining your team and contributing my skills to your organization. Please find my resume attached for your review.\n\nThank you for your time and consideration. I look forward to the opportunity to discuss my application.\n\nKind regards,\nRavi Kumar\nPhone: +91-XXXXXXXXXX\nEmail: [ravikumar@email.com](mailto:ravikumar@email.com)\n",
+    "analysis_type": "quick",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 52.82,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 47.18,
+      "legitimate": 52.82
+    }
+  },
+  {
+    "id": "20260414185648238427",
+    "timestamp": "2026-04-14 18:56:48",
+    "text_preview": "Dear Hiring Manager,\n\nI hope you are doing well.\n\nI am writing to apply for the Software Developer position at your comp...",
+    "full_text": "Dear Hiring Manager,\n\nI hope you are doing well.\n\nI am writing to apply for the Software Developer position at your company. I have completed my Bachelor's degree in Computer Science and have experience in Java, Python, and web development.\n\nI am very interested in joining your team and contributing my skills to your organization. Please find my resume attached for your review.\n\nThank you for your time and consideration. I look forward to the opportunity to discuss my application.\n\nKind regards,\nRavi Kumar\nPhone: +91-XXXXXXXXXX\nEmail: [ravikumar@email.com](mailto:ravikumar@email.com)\n",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 52.82,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 47.18,
+      "legitimate": 52.82
+    }
+  },
+  {
+    "id": "20260411220104890381",
+    "timestamp": "2026-04-11 22:01:04",
+    "text_preview": "Job Title: Work From Home Data Entry Operator\nCompany: QuickEarn Global Services (Not a real company)\n\nJob Type: Part-Ti...",
+    "full_text": "Job Title: Work From Home Data Entry Operator\nCompany: QuickEarn Global Services (Not a real company)\n\nJob Type: Part-Time / Full-Time\nSalary: \u20b930,000 \u2013 \u20b960,000 per month\n\nJob Description:\nWe are hiring candidates for simple online data entry work. No experience required. Earn money easily by working 2\u20133 hours daily from your home.\n\nResponsibilities:\n\nCopy-paste data into company software\nComplete simple typing tasks\nSubmit daily work reports\n\nRequirements:\n\nSmartphone or laptop\nBasic typing skills\nNo qualification required\n\nBenefits (Red Flags):\n\nInstant joining without interview\nGuaranteed high income\nDaily payment system",
+    "analysis_type": "detailed",
+    "label": "Fraudulent",
+    "is_fraudulent": true,
+    "confidence": 55.0,
+    "fraud_signals": [
+      "No experience/interview required"
+    ],
+    "probabilities": {
+      "fraudulent": 55.0,
+      "legitimate": 45.0
+    }
+  },
+  {
+    "id": "20260411215845138270",
+    "timestamp": "2026-04-11 21:58:45",
+    "text_preview": "ob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience: 1\u20133 Years\n\nJob Descript...",
+    "full_text": "ob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience: 1\u20133 Years\n\nJob Description:\nWe are seeking an Operations Executive to oversee daily business activities and improve operational efficiency.\n\nKey Responsibilities:\n\nMonitor daily operations and workflows\nCoordinate with vendors and internal teams\nTrack performance metrics\nImprove process efficiency\n\nKey Skills:\n\nOrganizational and multitasking skills\nMS Excel and reporting\nProblem-solving ability\n\nKPIs:\n\nProcess efficiency improvement (%)\nCost reduction metrics\nOn-time task completion\n\nSalary:\n\u20b920,000 \u2013 \u20b940,000/month\n\n",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 53.32,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 46.68,
+      "legitimate": 53.32
+    }
+  },
+  {
+    "id": "20260411215711505288",
+    "timestamp": "2026-04-11 21:57:11",
+    "text_preview": "Job Title: Content Writer\nCompany: Creative Minds Agency\nLocation: Remote\nExperience: 0\u20133 Years\n\nJob Description:\nWe are...",
+    "full_text": "Job Title: Content Writer\nCompany: Creative Minds Agency\nLocation: Remote\nExperience: 0\u20133 Years\n\nJob Description:\nWe are looking for a creative Content Writer to produce engaging and SEO-friendly content.\n\nKey Responsibilities:\n\nWrite blogs, articles, and website content\nConduct keyword research\nEdit and proofread content\nCollaborate with marketing team\n\nKey Skills:\n\nStrong writing and grammar skills\nBasic SEO knowledge\nCreativity and research ability\n\nKPIs:\n\nContent engagement rate\nSEO ranking improvement\nContent delivery deadlines\n\nSalary:\n\u20b915,000 \u2013 \u20b930,000/month\n\n\u2705 5. Operations Executive\n\nJob Title: Operations Executive\nCompany: SwiftLogistics Pvt. Ltd.\nLocation: Hyderabad\nExperience: 1\u20133 Years\n\nJob Description:\nWe are seeking an Operations Executive to oversee daily business activities and improve operational efficiency.\n\nKey Responsibilities:\n\nMonitor daily operations and workflows\nCoordinate with vendors and internal teams\nTrack performance metrics\nImprove process efficiency\n\nKey Skills:\n\nOrganizational and multitasking skills\nMS Excel and reporting\nProblem-solving ability\n\nKPIs:\n\nProcess efficiency improvement (%)\nCost reduction metrics\nOn-time task completion\n\nSalary:\n\u20b920,000 \u2013 \u20b940,000/month\n\nIf you want, I can go even further and:\n\nAdd real company-style formatting (LinkedIn/Naukri ready)\nCreate bulk job descriptions (10\u201320 at once)\nOr \ntailor everything for a specific industry (IT, healthcare, govt jobs, etc.) \ud83d\udc4d",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 53.29,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 46.71,
+      "legitimate": 53.29
+    }
+  },
+  {
+    "id": "20260411215610777868",
+    "timestamp": "2026-04-11 21:56:10",
+    "text_preview": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type:...",
+    "full_text": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type: Full-Time\n\nJob Description:\nWe are seeking a detail-oriented Data Analyst to transform raw data into meaningful insights that support business decision-making.\n\nKey Responsibilities:\n\nCollect, clean, and analyze large datasets\nCreate dashboards using tools like Power BI or Tableau\nIdentify trends, patterns, and anomalies\nWork with cross-functional teams to define data requirements\nGenerate weekly and monthly performance reports\n\nKey Skills:\n\nSQL, Excel (Advanced), Python/R (preferred)\nData visualization tools (Power BI/Tableau)\nStrong analytical and problem-solving skills\n\nKPIs (Performance Metrics):\n\nReport accuracy rate (>98%)\nTimely delivery of reports\nData-driven recommendations implemented\n\nSalary & Benefits:\n\u20b94 \u2013 \u20b97 LPA + Health Insurance + Paid Leave\n\nApplication Process:\nResume screening \u2192 Technical test \u2192 Interview",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 53.7,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 46.3,
+      "legitimate": 53.7
+    }
+  },
+  {
+    "id": "20260411215600185839",
+    "timestamp": "2026-04-11 21:56:00",
+    "text_preview": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type:...",
+    "full_text": "Job Title: Data Analyst\nCompany: Insight Metrics Pvt. Ltd.\nLocation: Hyderabad / Remote\nExperience: 1\u20133 Years\nJob Type: Full-Time\n\nJob Description:\nWe are seeking a detail-oriented Data Analyst to transform raw data into meaningful insights that support business decision-making.\n\nKey Responsibilities:\n\nCollect, clean, and analyze large datasets\nCreate dashboards using tools like Power BI or Tableau\nIdentify trends, patterns, and anomalies\nWork with cross-functional teams to define data requirements\nGenerate weekly and monthly performance reports\n\nKey Skills:\n\nSQL, Excel (Advanced), Python/R (preferred)\nData visualization tools (Power BI/Tableau)\nStrong analytical and problem-solving skills\n\nKPIs (Performance Metrics):\n\nReport accuracy rate (>98%)\nTimely delivery of reports\nData-driven recommendations implemented\n\nSalary & Benefits:\n\u20b94 \u2013 \u20b97 LPA + Health Insurance + Paid Leave\n\nApplication Process:\nResume screening \u2192 Technical test \u2192 Interview",
+    "analysis_type": "quick",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 53.7,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 46.3,
+      "legitimate": 53.7
+    }
+  },
+  {
+    "id": "20260411121601148950",
+    "timestamp": "2026-04-11 12:16:01",
+    "text_preview": "Job Title: Digital Marketing Executive\nCompany: Nexa Digital Agency\nLocation: Remote / Bangalore\n\nJob Description:\nWe ar...",
+    "full_text": "Job Title: Digital Marketing Executive\nCompany: Nexa Digital Agency\nLocation: Remote / Bangalore\n\nJob Description:\nWe are seeking a creative Digital Marketing Executive to manage online campaigns and improve brand visibility.\n\nKey Responsibilities:\n\nManage social media accounts and campaigns\nRun Google Ads and SEO strategies\nAnalyze campaign performance\nCreate engaging content\n\nRequirements:\n\nBachelor\u2019s degree in Marketing or related field\nBasic knowledge of SEO, SEM, and social media tools\nStrong analytical and creative skills\n\nSalary & Benefits:\n\u20b920,000 \u2013 \u20b940,000/month + performance bonus\n\nHow to Apply:\nApply via email: hr@nexadigital.com",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 52.99,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 47.01,
+      "legitimate": 52.99
+    }
+  },
+  {
+    "id": "20260411121552928936",
+    "timestamp": "2026-04-11 12:15:52",
+    "text_preview": "Job Title: Digital Marketing Executive\nCompany: Nexa Digital Agency\nLocation: Remote / Bangalore\n\nJob Description:\nWe ar...",
+    "full_text": "Job Title: Digital Marketing Executive\nCompany: Nexa Digital Agency\nLocation: Remote / Bangalore\n\nJob Description:\nWe are seeking a creative Digital Marketing Executive to manage online campaigns and improve brand visibility.\n\nKey Responsibilities:\n\nManage social media accounts and campaigns\nRun Google Ads and SEO strategies\nAnalyze campaign performance\nCreate engaging content\n\nRequirements:\n\nBachelor\u2019s degree in Marketing or related field\nBasic knowledge of SEO, SEM, and social media tools\nStrong analytical and creative skills\n\nSalary & Benefits:\n\u20b920,000 \u2013 \u20b940,000/month + performance bonus\n\nHow to Apply:\nApply via email: hr@nexadigital.com",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 52.99,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 47.01,
+      "legitimate": 52.99
+    }
+  },
+  {
+    "id": "20260411121501070778",
+    "timestamp": "2026-04-11 12:15:01",
+    "text_preview": "Job Title: Data Entry Executive\nCompany: ABC Technologies Pvt. Ltd.\nLocation: Hyderabad, India (Remote/Hybrid Available)...",
+    "full_text": "Job Title: Data Entry Executive\nCompany: ABC Technologies Pvt. Ltd.\nLocation: Hyderabad, India (Remote/Hybrid Available)\nJob Type: Full-Time\n\nAbout the Company:\nABC Technologies Pvt. Ltd. is a growing IT services company specializing in data management and business process solutions. We are committed to maintaining high standards of accuracy, integrity, and client satisfaction.\n\nJob Description:\nWe are seeking a detail-oriented and reliable Data Entry Executive to join our team. The ideal candidate will be responsible for entering, updating, and maintaining accurate data in our systems.\n\nKey Responsibilities:\n\nAccurately input and update data into company databases\nVerify data for errors and correct inconsistencies\nMaintain confidentiality of sensitive information\nGenerate reports as required\nMeet daily and weekly productivity targets\n\nRequirements:\n\nMinimum qualification: Intermediate / Bachelor\u2019s degree preferred\nBasic computer skills (MS Excel, MS Word)\nGood typing speed and attention to detail\nStrong organizational and time management skills\nAbility to work independently and as part of a team\n\nSalary & Benefits:\n\n\u20b915,000 \u2013 \u20b925,000 per month (based on experience)\nProvident Fund (PF) and Employee State Insurance (ESI)\nPaid leave and holidays\nOpportunities for career growth and skill development\n\nApplication Process:\nInterested candidates can apply by sending their updated resume to: hr@abctech.com\n\nShortlisted candidates will be contacted for an interview (online or in-office).\n\nEqual Opportunity Statement:\nABC Technologies Pvt. Ltd. is an equal opportunity employer. We value diversity and are committed to creating an inclusive work environment.",
+    "analysis_type": "detailed",
+    "label": "Legitimate",
+    "is_fraudulent": false,
+    "confidence": 51.73,
+    "fraud_signals": [],
+    "probabilities": {
+      "fraudulent": 48.27,
+      "legitimate": 51.73
+    }
+  },
+  {
+    "id": "20260411120936068524",
+    "timestamp": "2026-04-11 12:09:36",
+    "text_preview": "**Title:** $$$ EARN $5000/WEEK FROM HOME - DATA ENTRY $$$\n\n**Company:** Global Income Solutions\n\n**Description:**\nURGENT...",
+    "full_text": "**Title:** $$$ EARN $5000/WEEK FROM HOME - DATA ENTRY $$$\n\n**Company:** Global Income Solutions\n\n**Description:**\nURGENT HIRING!!! We are looking for motivated individuals to work from home! NO EXPERIENCE NEEDED! Start earning $5000 per week with just 2-3 hours of work per day! This is a GUARANTEED income opportunity!\n\nRequirements:\n- Must have a computer\n- Must be 18+\n- No background check needed\n\nTo apply, send $50 processing fee to our PayPal account and your bank details for direct deposit setup. Limited positions available - ACT NOW!!!\n\nContact: makemoney247@gmail.com\n\n---",
+    "analysis_type": "detailed",
+    "label": "Fraudulent",
+    "is_fraudulent": true,
+    "confidence": 96.6,
+    "fraud_signals": [
+      "Requests upfront payment/fees",
+      "Uses personal email domain",
+      "No experience/interview required",
+      "Uses urgency tactics",
+      "Promises guaranteed income",
+      "Unrealistic weekly pay",
+      "Excessive caps/exclamation marks"
+    ],
+    "probabilities": {
+      "fraudulent": 96.6,
+      "legitimate": 3.4
+    }
+  },
+  {
     "id": "20260410131030965392",
     "timestamp": "2026-04-10 13:10:30",
     "text_preview": "Job Title: Junior Accountant\n\nCompany: Wipro\nLocation: Chennai\nSalary: \u20b93\u20136 LPA\n\n\ud83d\udcc4 Job Description:\n\nManage financial re...",

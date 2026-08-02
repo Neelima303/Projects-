@@ -32,7 +32,7 @@ from typing import Dict, List, Callable, Optional
 # LIME library for explanations
 from lime.lime_text import LimeTextExplainer
 
-# Add parent directory for imports
+# Add parent directory for importspip
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 
 # Import configuration
